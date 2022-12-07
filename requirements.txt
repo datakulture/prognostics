@@ -1,0 +1,13 @@
+numpy
+plotly
+seaborn
+pandas
+matplotlib
+ssl
+requests
+streamlit
+dash_daq
+Pillow
+scikit_learn
+tensorflow
+pickle
