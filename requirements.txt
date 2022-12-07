@@ -8,5 +8,4 @@ streamlit
 dash_daq
 Pillow
 scikit_learn
-tensorflow
-pickle
+
