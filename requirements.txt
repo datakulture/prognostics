@@ -3,7 +3,6 @@ plotly
 seaborn
 pandas
 matplotlib
-ssl
 requests
 streamlit
 dash_daq
